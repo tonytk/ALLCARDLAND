@@ -1,6 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
-  Allcard Static Website
+  Allcard Static Website Home Page
 
 
 
